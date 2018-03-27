@@ -1,0 +1,23 @@
+
+#animal-holder {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.animal {
+    border: 1px solid black;
+    text-align: center;
+    margin: 45px;
+    width: 400px;
+}
+
+.animalImage {
+    margin: 0 auto;
+    width: 90%;
+    display: block;
+}
+
+.escaped-btn {
+    font-size: 15px;
+}
