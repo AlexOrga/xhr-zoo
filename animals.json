@@ -1,0 +1,109 @@
+{
+    "animals": [
+        {
+            "name": "Axolotl",
+            "type": "Amphibian",
+            "number": 30,
+            "isCarnivore": true,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_axolotl-web.jpg"
+        },
+        {
+            "name": "Panamanian Golden Frog",
+            "type": "Amphibian",
+            "number": 18,
+            "isCarnivore": true,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_golden-frog-katie-gregory.jpg"
+        },
+        {
+            "name": "Puerto Rican Crested Toad",
+            "type": "Amphibian",
+            "number": 22,
+            "isCarnivore": true,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_prct.jpg"
+        },
+        {
+            "name": "Southern Crested Screamer",
+            "type": "Bird",
+            "number": 15,
+            "isCarnivore": false,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_crestedscreamer1-web.jpg"
+        },
+        {
+            "name": "Rhinoceros Hornbill",
+            "type": "Bird",
+            "number": 3,
+            "isCarnivore": true,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_rhinohornbill1.jpg"
+        },
+        {
+            "name": "Lorikeet",
+            "type": "Bird",
+            "number": 45,
+            "isCarnivore": false,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_lorikeet8.jpg"
+        },
+        {
+            "name": "Blue Tang Surgeon Fish",
+            "type": "Fish",
+            "number": 19,
+            "isCarnivore": false,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_blue-tang-surgeonfish.jpg"
+        },
+        {
+            "name": "Lionfish",
+            "type": "Fish",
+            "number": 11,
+            "isCarnivore": true,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_lionfish1.jpg"
+        },
+        {
+            "name": "White-Blotched River Stingray",
+            "type": "Fish",
+            "number": 2,
+            "isCarnivore": true,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_white-blotched-stingray.jpg"
+        },
+        {
+            "name": "Alpaca",
+            "type": "Mammal",
+            "number": 3,
+            "isCarnivore": false,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_alpaca1.jpg"
+        },
+        {
+            "name": "Clouded Leopard",
+            "type": "Mammal",
+            "number": 2,
+            "isCarnivore": true,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_cloudedleopard7.jpg"
+        },
+        {
+            "name": "Cotswold Sheep",
+            "type": "Mammal",
+            "number": 9,
+            "isCarnivore": false,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_sheep18.jpg"
+        },
+        {
+            "name": "Dwarf Caimon",
+            "type": "Reptile",
+            "number": 3,
+            "isCarnivore": true,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_dwarf_caiman_-_sperka.jpg"
+        },
+        {
+            "name": "Galapagos Tortoise",
+            "type": "Reptile",
+            "number": 2,
+            "isCarnivore": false,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/tortoise6.jpg"
+        },
+        {
+            "name": "Green Anaconda",
+            "type": "Reptile",
+            "number": 1,
+            "isCarnivore": true,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_green-anaconda-web.jpg"
+        }
+    ]
+}
