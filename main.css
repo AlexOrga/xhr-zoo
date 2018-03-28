@@ -10,14 +10,20 @@
     text-align: center;
     margin: 45px;
     width: 400px;
+    height: 400px;
 }
 
 .animalImage {
     margin: 0 auto;
     width: 90%;
     display: block;
+    max-height: 236px;
 }
 
-.escaped-btn {
-    font-size: 15px;
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
 }
