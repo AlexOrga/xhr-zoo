@@ -45,7 +45,6 @@ const showFoundButton = (buttonContainer) => {
 };
 
 const initializeFoundButton = () => {
-    console.log('hi');
     const foundButton = document.getElementById('found');
     foundButton.addEventListener('click', () => {
         const animals = document.getElementsByClassName('animal');
